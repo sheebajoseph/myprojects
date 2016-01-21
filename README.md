@@ -1,2 +1,2 @@
 # safetone
-Application to send a signal from a dangerous zone.
+It is compatible with both android mobile and windows PC.
