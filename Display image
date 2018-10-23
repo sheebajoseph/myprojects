@@ -1,0 +1,5 @@
+import numpy as np
+import cv2
+from matplotlib import pyplot as plt
+img=cv2.imshow('C:/Users/547861/Desktop/rose.jpeg',0)
+plt.imshow(img,cmap='gray',interplotation='bicubic')
